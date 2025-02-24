@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs and editor settings
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Docker
+Dockerfile
+docker-compose.yml
+*.log
+*.pid
+
+# Environment variables (env files)
+.env
+
+# Heroku files
+*.env
+
+# Requirements
+requirements.txt
+
+# Miscellaneous
+*.bak
+*.swp
